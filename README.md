@@ -20,9 +20,13 @@ Libraries Location:
 
     /usr/local/lib/python2.7.x
 
-install pip
+Install pip
 http://sharadchhetri.com/2014/05/30/install-pip-centos-rhel-ubuntu-debian/
 
+If encouter an error when pip-2.6 install pillow, do this.
+
+    sudo yum install python-devel
+    
 ### MySQL
 http://iammic.pixnet.net/blog/post/6159632-centos-5-mysql-安裝  
 http://emn178.pixnet.net/blog/post/87659567-mysql修改密碼與忘記密碼重設  
