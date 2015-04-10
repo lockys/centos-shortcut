@@ -1,9 +1,11 @@
-# centos-shortcut
-httpd 
-## restart:
+# centos-record
+### httpd 
+- restart:
 /sbin/service httpd restart
-## to start:
+- to start:
 /sbin/service httpd start
-## to stop:
+- to stop:
 /sbin/service httpd stop
 
+-python lib location:
+usr/local/lib/python2.7.x
