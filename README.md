@@ -6,7 +6,7 @@
     /sbin/service httpd start
 - to stop:
     /sbin/service httpd stop
-Where to found the httpd error log?
+- Where to found the httpd error log?
     /var/log/httpd/error_log
 
 Libraries Location:  
