@@ -1,0 +1,2 @@
+# centos-shortcut
+centos-record
