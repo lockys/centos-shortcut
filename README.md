@@ -1,16 +1,25 @@
 # Centos-record
 ### httpd 
-- restart:
+restart:
+
     /sbin/service httpd restart
-- to start:
+
+to start:
+
     /sbin/service httpd start
-- to stop:
+
+to stop:
+
     /sbin/service httpd stop
-- Where to found the httpd error log?
+
+Where to found the httpd error log?
+
     /var/log/httpd/error_log
 
-Libraries Location:  
+Libraries Location:
+
     /usr/local/lib/python2.7.x
+
 ### MySQL
 http://iammic.pixnet.net/blog/post/6159632-centos-5-mysql-安裝  
 http://emn178.pixnet.net/blog/post/87659567-mysql修改密碼與忘記密碼重設  
