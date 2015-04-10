@@ -20,6 +20,9 @@ Libraries Location:
 
     /usr/local/lib/python2.7.x
 
+install pip
+http://sharadchhetri.com/2014/05/30/install-pip-centos-rhel-ubuntu-debian/
+
 ### MySQL
 http://iammic.pixnet.net/blog/post/6159632-centos-5-mysql-安裝  
 http://emn178.pixnet.net/blog/post/87659567-mysql修改密碼與忘記密碼重設  
